@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BetterMJ
+- 👋 Hi, I’m Matteo Jakob
 - 📫 reach me at matteo.jakob@gmail.com
 
 <!---

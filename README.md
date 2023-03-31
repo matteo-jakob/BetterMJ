@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matteo Jakob
+- 👋 Hi, I’m Matteo Jakob, a student
 - 📫 reach me at matteo.jakob@gmail.com
 
 <!---
